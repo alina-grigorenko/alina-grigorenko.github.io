@@ -1,0 +1,124 @@
+/*HTML*/
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+/*  TITTLE PAGE */
+
+h1 {
+    margin-top: 20.0px;
+    margin-left: 70.0px; 
+    margin-bottom: 0.0px; 
+    margin-right: 36.0px; 
+    line-height: 141px; 
+    letter-spacing: 0.02em;
+    font-size: 164.234px; 
+    font-family: Rift; 
+    color: #ffffff; 
+    display: inline-block;
+}
+a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-family: Rift Bold;
+    line-height: 40px;
+    font-size: 25px; 
+    margin-left: 978px; 
+    letter-spacing: 0.06em;
+    position: relative;
+    left: 233.5px;
+    bottom: 50px;
+}
+a:hover {
+    text-decoration: none;
+}
+span {
+    color: #ffffff;
+    vertical-align: 138px;
+    position: relative; right: 446px;
+    letter-spacing: 0.02em;
+}
+
+br {
+    display: block;
+    margin-bottom: 19px;
+ }
+
+/*CONTENT PAGE*/
+
+p1 {
+/* max-width: 755px; */
+  margin-top: 85.0px;
+  margin-left: 70px; 
+  margin-bottom: 16.1px; 
+  margin-right: 145.269px;
+  line-height: 26px; 
+  font-size: 19px;
+  font-family: FreightText Pro Medium;
+  letter-spacing: 0.05em;
+  color: #ffffff; 
+  width: 50%;
+  display: block;
+}
+/* SUBTITLE */
+
+#S1 {
+    margin-left: 70.731px; 
+    line-height: 40px; font-size: 29px; 
+    font-family: Rift Medium; 
+    color: #ffffff; 
+    /* width: 50% */
+    display: inline-block;
+    }
+  
+#S2 {
+    margin-top: 24.0px; 
+    margin-left: -115.0px; 
+    margin-bottom: 0.0px; 
+    margin-right: 0px;
+    line-height: 40px; 
+    font-size: 29px; 
+    font-family: Rift Medium; 
+    transform: rotate(-90deg);
+    color: #ffffff; 
+    /* width: 50% */
+    display: inline-block;
+    position: absolute;
+   }
+
+/*FOOTNOTES*/
+
+p2 {
+  font-size: 14px;
+  line-height: 1px;
+  font-family: FreightText Pro Light;
+  color: #ffffff;
+  text-align: left;
+  
+}
+
+.popup-position{
+    position: absolute;
+    display: none;
+  }
+
+#popup-wrapper{  
+    margin-left: 0px;
+    text-align: left;
+  }
+
+#popup-container {
+    background-color: #000000;
+    opacity: 60%;
+    height: 240px;
+    width: 410px;
+    border-radius: 4px; 
+    padding: 30px;
+    position: relative;
+    left: 770px;
+    bottom: 55px;
+}
+
+
+
